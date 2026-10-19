@@ -6,7 +6,7 @@ A nine-day foundation in virtualisation, from physical servers to cloud infrastr
 
 ### 📚 Course Index
 
-| Day | Topic | What You'll Learn |
+| Day | Topic | Content |
 |---|---|---|
 | 01 | [Fundamentals](01-fundamentals.md) | Hosts, guests, VMs, and types of virtualisation |
 | 02 | [Hypervisors and KVM](02-hypervisors-and-kvm.md) | KVM, QEMU, libvirt, virtio, and nested virtualisation |
