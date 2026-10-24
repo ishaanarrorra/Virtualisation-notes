@@ -1,4 +1,4 @@
-# 🖥️ Virtualisation Notes
+# Virtualisation Notes
 
 A nine-day foundation in virtualisation, from physical servers to cloud infrastructure, with connections to OpenStack and OpenShift. Covers theory, hands-on exercises, and quizzes built around a Linux/KVM lab.
 
