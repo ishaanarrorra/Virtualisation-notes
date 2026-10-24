@@ -4,7 +4,7 @@ A nine-day foundation in virtualisation, from physical servers to cloud infrastr
 
 ---
 
-### 📚 Course Index
+### Course Index
 
 | Day | Topic | Content |
 |---|---|---|
@@ -21,12 +21,12 @@ A nine-day foundation in virtualisation, from physical servers to cloud infrastr
 ---
 
 
-### 🧪 Lab Setup
+### Lab Setup
 
 A computer with hardware virtualisation support, about **16 GiB RAM** and **100 GB free SSD**. Two Linux guests with **2 vCPUs** and **2–4 GiB RAM** each are enough for most exercises.
 
 ---
 
-### 🎯 Goal
+### Goal
 
 By the end, be able to explain how a VM uses physical resources, distinguish KVM, QEMU, and libvirt, trace virtual networking and storage, understand migration and recovery, troubleshoot by layer, and connect these concepts to OpenStack and OpenShift.
